@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CGC Campus Ride</string>
+    <string name="title_activity_main">CGC Campus Ride</string>
+    <string name="package_name">com.college.bustracking</string>
+    <string name="custom_url_scheme">com.college.bustracking</string>
+</resources>
